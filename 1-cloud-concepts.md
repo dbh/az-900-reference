@@ -1,3 +1,23 @@
+- [Cloud concepts](#cloud-concepts)
+  - [Expanding set of services](#expanding-set-of-services)
+  - [What is cloud computing?](#what-is-cloud-computing)
+  - [Why cheaper?](#why-cheaper)
+  - [Why move to cloud?](#why-move-to-cloud)
+  - [What is Azure](#what-is-azure)
+  - [Azure portal](#azure-portal)
+  - [Azure Marketplace](#azure-marketplace)
+  - [Tour of services](#tour-of-services)
+    - [Compute](#compute)
+    - [Networking](#networking)
+    - [Storage](#storage)
+  - [Mobile](#mobile)
+    - [DBs](#dbs)
+    - [Web](#web)
+    - [IoT](#iot)
+    - [Big Data](#big-data)
+    - [AI](#ai)
+    - [DevOps](#devops)
+  - [accounts](#accounts)
 # Cloud concepts
 
 ## Expanding set of services
