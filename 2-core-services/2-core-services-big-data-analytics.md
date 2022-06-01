@@ -1,3 +1,8 @@
+- [Big Data and Analytics](#big-data-and-analytics)
+  - [Azure Synapse Analytics](#azure-synapse-analytics)
+  - [Azure HD Insight](#azure-hd-insight)
+  - [Azure Databricks](#azure-databricks)
+  - [Azure Data Lake Analytics](#azure-data-lake-analytics)
 # Big Data and Analytics
 
 ## Azure Synapse Analytics
