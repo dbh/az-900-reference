@@ -20,7 +20,7 @@
 ## Goals
 * ident defense in depth strategy
 * azure firewall - control traffic allowed on network
-* config network sec gruops to filter network traffice to/from
+* config network sec gruops to filter network traffic to/from
 * Explaine DDOS Prot
 
 ## Defense in depth

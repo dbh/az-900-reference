@@ -18,8 +18,8 @@ capabilities
 * internet comm
 * between azure resources
 * comm w on-prem resources
-* route network traffice
-* filter network traffice
+* route network traffic
+* filter network traffic
 * connect virtual networks
 
 Whens setting up a virt network
@@ -58,7 +58,7 @@ route network traffic
   connect virt networks
   * peering
   * can be in sep regions
-  * user defined routes UDR - greater control over network traffice flow
+  * user defined routes UDR - greater control over network traffic flow
   
   ## Creating a virt network
   Must specify
@@ -144,10 +144,10 @@ gateway sizes
   * 100 Mbps -> 10 Gbps
 * BGP support
   * basic no
-  * all other yet
+  * all other yes
 
 need: 
-* virt netowrk
+* virt network
 * gateway subnet
 * public ip
 * local network gateway
