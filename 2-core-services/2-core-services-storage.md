@@ -41,7 +41,7 @@ need
   * location/region
   * performance 
     * std/premium
-  * account kkind
+  * account kind
   * replication
   * blob acceess tier (hot or cool)
 
@@ -58,7 +58,7 @@ example
 |--|--|--|
 |sally|pictures|img001.jpg|
 |sally|pictures|img002.jpg|
-|salls|movies|mov1.avi|
+|sally|movies|mov1.avi|
 
 Points
 * storage account provides unique namespace for your azure storage data
@@ -100,5 +100,4 @@ Points
 * many on-prem apps use file shares. easy migration to azure
 * Store config files on a file share and access from multi vms
 * write data to file share, process, analyze data later
-* 
 

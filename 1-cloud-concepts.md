@@ -173,7 +173,7 @@ solution catalog
 |ExpressRoute|Azure over high-bandwidth dedicated secure conn|
 |Network watcher|Monitor / dianose network issues by using scenario-bases analysis|
 |Firewall|high sec, high avail, unlimited scale|
-|Virtualn WAN|unified wide area network connect local and remote sites|
+|Virtual WAN|unified wide area network connect local and remote sites|
 
 ### Storage
 
@@ -197,7 +197,7 @@ incl:
 * offline data sync
 * connectivity to on-prem data
 * broadcasting push notifications
-* autoscaling to match bu sneeds
+* autoscaling to match bus needs
 
 ### DBs
 |Service name|function|
@@ -220,7 +220,7 @@ incl:
 |API Mgmt|Publish APIs to devs, partners, employees, securely, at scale|
 |Cog search|deploy fully managed search as service|
 |Web Apps feature of Azure App Service|create/deploy mission critical web apps at scale|
-|SigalR Service|add real-time web f() easily|
+|SignalR Service|add real-time web f() easily|
 
 
 ### IoT

@@ -19,7 +19,7 @@ layers
 DBs
 * cosmos
 * azure sql
-* azure db vor 
+* azure db variations
   * mysql
   * postgresql
 * big data services and analytics services
