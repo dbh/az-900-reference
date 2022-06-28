@@ -45,7 +45,7 @@
 * capability for threat detection and response
 * capas
   * Collect cloud data at scale
-  * Detect prev undtected threats
+  * Detect prev undetected threats
   * investgiate threats w AI
   * Respond to incidents rapidly
 

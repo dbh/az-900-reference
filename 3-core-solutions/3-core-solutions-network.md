@@ -85,7 +85,7 @@
   * basic
     * free
     * auto enabled
-    * traffic monitoring and real-time mitigation comon network level attacks
+    * traffic monitoring and real-time mitigation common network level attacks
     * protects azure infra
   * standard
     * prots also Azure Virtual Network resources

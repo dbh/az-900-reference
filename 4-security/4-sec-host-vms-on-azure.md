@@ -10,7 +10,7 @@
 * types
   * linux
   * windows
-* visability / control over server inra
+* visability / control over server infra
 * choose # processors, server capabilities, VM series, VM sizes
 * high availability
   * provision mult hosts in a host group

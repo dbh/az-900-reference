@@ -14,7 +14,7 @@
       - [customize options](#customize-options)
     - [Build avail requirements into design](#build-avail-requirements-into-design)
     - [Include redundancy to increase avail](#include-redundancy-to-increase-avail)
-    - [very high perf difficult to achive](#very-high-perf-difficult-to-achive)
+    - [very high perf difficult to achieve](#very-high-perf-difficult-to-achieve)
 
 # Azure SLAs
 
@@ -57,4 +57,4 @@ SLA ~ Uptime
   * std
   ### Build avail requirements into design
   ### Include redundancy to increase avail
-  ### very high perf difficult to achive
+  ### very high perf difficult to achieve
